@@ -254,10 +254,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82983be6177843e45ad35807bff3d55f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Map: {fileID: 2800000, guid: 0808674016e72cb4b99f9d20f40efe8e, type: 3}
-  Ground: {fileID: 100000, guid: dac1f6a026468af46b8928893e3eea27, type: 3}
+  Map: {fileID: 2800000, guid: a9892cdca6e384f4eacdf50f6233c916, type: 3}
+  Ground: {fileID: 1560257132984952, guid: 5cbae0602ce9acf41a98fda3a353569a, type: 3}
   Coin: {fileID: 100000, guid: 200be9953d192cd48a8b41a5db3fd1bf, type: 3}
-  Prop: {fileID: 100000, guid: 0e448df1bb3fe6d44ae7119bf0d484aa, type: 3}
+  Prop: {fileID: 100000, guid: 3d789200e36f37548bdc5333aed7f702, type: 3}
   Brown: {r: 0.7607843, g: 0.3647059, b: 0.043137256, a: 1}
   Yellow: {r: 0.94509804, g: 0.8156863, b: 0.07450981, a: 1}
   Green: {r: 0.18431373, g: 0.60784316, b: 0.28627452, a: 1}
